@@ -1,0 +1,4 @@
+#!/bin/sh
+set -xe
+cd git-assets/terraform
+terraform -version
